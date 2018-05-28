@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_amount">\"Enter Amount\"</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="down_payment">\"Enter Down Payment Here\"</string>
+    <string name="house_price">\"Enter House Price Here\"</string>
+    <string name="interest_rate">\"Enter Interest Rate Here\"</string>
+    <string name="mortgage_length">\"Enter length of Mortgage Loan (in years) here\"</string>
+    <string name="monthly_payment">\"Monthly Payment\"</string>
+    <string name="total_payment">\"Total\"</string>
+</resources>
